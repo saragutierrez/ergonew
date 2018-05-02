@@ -29,10 +29,11 @@ function radio_n_preenchido(nome){
   return false;
 };
 function enviar(){
+  count = 0;
   if(radio_n_preenchido('ex1') && radio_n_preenchido('ex2') && radio_n_preenchido('ex3') && radio_n_preenchido('ex4')
 && radio_n_preenchido('ex5') ){
-    alert('Responda a todas as perguntas!');
-  }else{
+   alert('Responda a todas as perguntas!');
+ }else{
     if (document.getElementById("s1").checked == true ){
       //count = 0;
   	}else{
