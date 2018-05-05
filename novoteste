@@ -4,20 +4,6 @@
   <link href="css.css" rel="stylesheet">
 </head>
 <body>
-  <form>
-				<h2>2. Customs Radios</h2>
-				<div class="form-check">
-					<label>
-						<input type="radio" name="ex1" value="Sim1" id="s1" checked> <span class="label-text">Sim</span>
-					</label>
-				</div>
-				<div class="form-check">
-					<label>
-						<input type="radio" name="ex1" value="Nao1" id="n1"> <span class="label-text">Nao</span>
-					</label>
-				</div>
-
-			</form>
   <table>
   <tr><td colspan="2"> 1- Você acaba de ganhar um valor muitas vezes maior que a sua renda mensal. <br/>
    Após receber o dinehiro e pagar suas dívidas, sabe responder onde investir o dinheiro ?</td></tr>
